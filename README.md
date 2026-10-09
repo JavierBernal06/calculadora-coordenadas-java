@@ -1,7 +1,8 @@
 # Calculadora de Coordenadas y Distancias Espaciales
 
-## Creador
+## Creadores
 * Francisco Javier Bernal Calvo
+* Joaquín Dávila Arenas
 
 ## Descripción
 Programa desarrollado en Java dentro del entorno IntelliJ IDEA para la conversión de coordenadas entre los sistemas polar, rectangular y esférico, además del cálculo de distancias y transformaciones entre puntos en el espacio.
